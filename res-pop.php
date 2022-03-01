@@ -1,12 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h2>Hola mundo</h2>
-</body>
-</html>
+<?php
+/**
+ * Plugin Name:       Res pop-up
+ * Plugin URI:        https://example.com
+ * Description:       plugin para pop up
+ * Version:           1.0.0
+ * Requires at least: 5.2
+ * Requires PHP:      7.4
+ * Author:            Gabriel Florentino
+ * Author URI:        https://author.example.com/
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Update URI:        https://example.com/my-plugin/
+ * Text Domain:       pop-up
+ * Domain Path:       /languages
+ */
